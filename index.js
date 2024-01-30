@@ -14,7 +14,7 @@ console.log(`
 `);
 
 const server = http.createServer();
-const url = "https://ahbdaljfbalbfbadbf.vercel.app/";
+const url = "https://nowgg.nl/iframe/snippet?app_pkg=com.roblox.client&partner=interstellar";
 const PORT = process.env.PORT || 8080;
 
 server.on("request", async (req, res) => {
