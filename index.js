@@ -14,7 +14,7 @@ console.log(`
 `);
 
 const server = http.createServer();
-const url = "https:/nowgg.nl/play/roblox-corporation/5349/roblox";
+const url = "https://limitedsupply-mustreset.zeabur.app/";
 const PORT = process.env.PORT || 8080;
 
 server.on("request", async (req, res) => {
