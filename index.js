@@ -14,7 +14,7 @@ console.log(`
 `);
 
 const server = http.createServer();
-const url = "https://limitedsupply-mustreset.zeabur.app/";
+const url = "https://now.gg/iframe/snippet?app_pkg=com.roblox.client&partner=agentjoney";
 const PORT = process.env.PORT || 8080;
 
 server.on("request", async (req, res) => {
