@@ -14,7 +14,7 @@ console.log(`
 `);
 
 const server = http.createServer();
-const url = "https://now.gg/iframe/snippet?app_pkg=com.roblox.client&partner=agentjoney";
+const url = "https://hallpass1.vercel.app/";
 const PORT = process.env.PORT || 8080;
 
 server.on("request", async (req, res) => {
